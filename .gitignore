@@ -1,3 +1,4 @@
+HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -39,3 +40,41 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+# Node modules
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Optional: skip package lock if you want
+# package-lock.json
+# yarn.lock
+
+# Others
+*.log
+*.swp
+*.swo
+
+# Optional: Images or static exports
+public/uploads/
+dacded0 (Ajout du fichier .gitignore)
