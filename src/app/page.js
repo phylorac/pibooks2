@@ -18,7 +18,7 @@ export default function Home() {
             <FaBookOpen className="mr-2" /> eBook Gratuit : Comprendre les cryptos sans jargon
           </h2>
           <p className="mb-4 text-gray-700">
-            Ce guide t'explique simplement les bases des cryptomonnaies et de Pi Network, même si tu pars de zéro. Pas de jargon, que de l'essentiel !
+            Ce guide t{`'`}explique simplement les bases des cryptomonnaies et de Pi Network, même si tu pars de zéro. Pas de jargon, que de l{`'`}essentiel !
           </p>
           <a
             href="/Ebook_PiNetwork_Debutant.pdf"
@@ -60,7 +60,7 @@ export default function Home() {
             <FaRocket className="mr-2" /> À venir : Gagner ses premiers 100 € avec Pi Network
           </h2>
           <p className="text-gray-700">
-            Notre prochain eBook t'expliquera comment utiliser tes Pi dans la vraie vie, sans investissement initial.
+            Notre prochain eBook t{`'`}expliquera comment utiliser tes Pi dans la vraie vie, sans investissement initial.
           </p>
           <p className="mt-2 italic text-sm text-gray-500">Disponible bientôt sur cette page.</p>
         </section>
