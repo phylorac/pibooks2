@@ -1,6 +1,7 @@
+// src/app/layout.js
 export const metadata = {
-  title: 'Pibooks',
-  description: 'Comprendre la crypto simplement',
+  title: 'FrancePi - Comprendre la Crypto',
+  description: 'Guides simples pour débuter avec Pi Network',
 };
 
 export default function RootLayout({ children }) {
